@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">I am passionate to be an AI Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-pratik-07&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-pratik-07" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-pratik-07" alt="code-with-pratik-07" /></a> </p>
 
-- 🔭 I’m currently working on **some AI tools**
+- 🔭 I’m currently working on **different AI tools**
 
 - 🌱 I’m currently **going deep in python by making advance projects**
 
@@ -27,5 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-pratik-07&show_icons=true&locale=en&layout=compact" alt="code-with-pratik-07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-pratik-07&show_icons=true&locale=en" alt="code-with-pratik-07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-pratik-07&" alt="code-with-pratik-07" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-pratik-07&" alt="code-with-pratik-07" /></p>
