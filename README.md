@@ -7,7 +7,7 @@
 
 ## 🔗 About Me
 - 🔭 I’m currently working on:  
-  • Interactive Python simulations (e.g., Conway's Game of Life)  
+  • Interactive Python simulations 
   • AI/ML projects using TensorFlow & Scikit-Learn  
   • Database-driven Python applications  
 - 🌱 I’m currently learning: TensorFlow, PyTorch, Advanced DSA, Database optimization  
