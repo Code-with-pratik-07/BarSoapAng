@@ -62,7 +62,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barsoapang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 📈 GitHub Contributions
-
-![Pratik's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=code-with-pratik-07&theme=react-dark&hide_border=false)
-
