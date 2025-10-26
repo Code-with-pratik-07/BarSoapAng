@@ -10,7 +10,7 @@
   • Interactive Python simulations 
   • AI/ML projects using TensorFlow & Scikit-Learn  
   • Database-driven Python applications  
-- 🌱 I’m currently learning: TensorFlow, PyTorch, Advanced DSA, Database optimization  
+- 🌱 I’m currently learning: TensorFlow, PyTorch, DSA, Database optimization  
 - 💬 Ask me about: Python, AI/ML, Databases, Interactive Simulations  
 
 ## 🏆 GitHub Achievements
