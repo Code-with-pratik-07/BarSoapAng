@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar Singh</h1>
 <h3 align="center">A passionate AI/ML & Python Developer from India</h3>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/code-with-pratik-07/my-repo/main/assets/game_of_life.gif" width="200" alt="Game of Life GIF"/>
-</p>
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## 🔗 About Me
 - 🔭 I’m currently working on:  
@@ -11,13 +9,13 @@
   • AI/ML projects using TensorFlow & Scikit-Learn  
   • Database-driven Python applications  
 - 🌱 I’m currently learning: TensorFlow, PyTorch, DSA, Database optimization  
-- 💬 Ask me about: Python, AI/ML, Databases, Interactive Simulations  
+- 💬 Ask me about: Python, AI/ML, Databases, Interactive Simulations
 
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-with-pratik-07&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-with-Pratik-07&theme=radical)
    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Code-with-pratik-07ryo-ma&theme=juicyfresh -->
-</p>
+
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
