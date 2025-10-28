@@ -15,6 +15,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-with-Pratik-07&theme=radical)
    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Code-with-pratik-07ryo-ma&theme=juicyfresh -->
 
+## 🏆 Hacktoberfest Achievement
+
+<p align="center">
+  <a href="https://holopin.io/@codewithpratik07" target="_blank">
+    <img src="https://holopin.me/codewithpratik07" width="300" alt="Hacktoberfest 2025 Super Contributor Badge">
+  </a>
+</p>
 
 
 ## 💻 Tech Stack
