@@ -13,7 +13,6 @@
 ## 🏆 GitHub Achievements
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-with-Pratik-07&theme=radical)
    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Code-with-pratik-07ryo-ma&theme=juicyfresh -->
-
 ## 🏆 Hacktoberfest Achievement
 
 <p align="center">
