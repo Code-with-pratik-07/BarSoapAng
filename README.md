@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar Singh</h1>
 <h3 align="center">A passionate AI/ML & Python Developer from India</h3>
-
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## 🔗 About Me
